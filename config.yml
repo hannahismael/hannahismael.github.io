@@ -94,13 +94,13 @@ params:
     - name: CV
       url: "/cv.pdf"
     - name: LinkedIn
-      url: "https://www.linkedin.com/in/samia-kabir/"
+      url: "https://www.linkedin.com/in/hannah-ismael-55bab420b/"
     - name: Google Scholar
-      url: "https://scholar.google.com/citations?user=DZ5jg-IAAAAJ&hl=en"
+      url: "https://scholar.google.com/citations?user=4T2VgpwAAAAJ&hl=en"
     - name: GitHub
       url: "https://github.com/SamiaKabir"
     - name: Email
-      url: "mailto:kabirs@purdue.edu"
+      url: "hannahismael42@berkeley.edu"
 
   assets:
     disableHLJS: true
